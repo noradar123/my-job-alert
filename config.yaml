@@ -1,0 +1,23 @@
+# 在這裡填入你想追蹤的公司與對應網址
+# name: 顯示在通知裡的名稱
+# url: 要監控的頁面(career page / events page / campus recruiting page)
+# selector (可選): CSS selector,只監控頁面中的某個區塊,可以減少雜訊(例如footer/廣告輪動造成的假警報)
+#   不填的話預設監控整個 <body>
+
+targets:
+  - name: "SIG - Discovery Program"
+    url: "https://sig.com/careers/"
+    selector: null
+
+  - name: "Jane Street - Portal / Programs"
+    url: "https://www.janestreet.com/programs/"
+    selector: null
+
+  - name: "Optiver - Events & Internships"
+    url: "https://optiver.com/working-at-optiver/career-opportunities/"
+    selector: null
+
+  # 依照你要追蹤的公司自己新增/修改,格式照抄上面就好
+  # - name: "公司名稱"
+  #   url: "https://example.com/careers"
+  #   selector: null

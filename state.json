@@ -1,0 +1,17 @@
+{
+  "https://sig.com/careers/": {
+    "name": "SIG - Discovery Program",
+    "hash": "cfe85887a13383d7e26f92a71203faa64b857aa140fab603ad21160786a7d8a8",
+    "last_checked": "2026-07-30 00:05:00"
+  },
+  "https://www.janestreet.com/programs/": {
+    "name": "Jane Street - Portal / Programs",
+    "hash": "181445e43a1f727ddbee1b5882ca18ede0a2f272d769fbc4eb8ba4cee0220dd7",
+    "last_checked": "2026-07-30 00:05:03"
+  },
+  "https://optiver.com/working-at-optiver/career-opportunities/": {
+    "name": "Optiver - Events & Internships",
+    "hash": "e5c9945f8b446c22d6b9fc29f1ed085ee82d91ebf21c5c9fe7bafa7fcde002f3",
+    "last_checked": "2026-07-30 00:05:07"
+  }
+}
